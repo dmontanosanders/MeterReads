@@ -1,0 +1,3 @@
+This is a small webapp to get meter reads from all networked printers and
+enter manual reads for the ones not connected and insert all values into a
+form on MerrillUpdate (an asset management tool for Merrill sites).
